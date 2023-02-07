@@ -4,7 +4,7 @@ Validator for Yii 1.1 that checks if an e-mail address is valid, using SMTP.
 
 ## Installation and usage
 
-Please visit the extension page [here](https://www.yiiframework.com/extension/emailsmtpvalidator)
+Please visit the extension page [here](https://www.yiiframework.com/extension/emailsmtpvalidator).
 
 ## License
 
