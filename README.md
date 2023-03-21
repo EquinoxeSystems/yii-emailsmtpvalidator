@@ -5,7 +5,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/rgglez/yii-emailsmtpvalidator) 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/rgglez/yii-emailsmtpvalidator)
 
-Validator for Yii 1.1 that checks if an e-mail address is valid, using SMTP.
+Validator for [Yii](https://yiiframework.com) 1.1 that checks if an e-mail address is valid, using SMTP.
 
 ## Installation and usage
 
